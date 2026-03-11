@@ -313,12 +313,5 @@ Merge two sorted linked lists into one.
 
 ---
 
-# 🎯 How to Use This Repository
-
-✅ Practice topic-wise  
-✅ Focus on patterns  
-✅ Revise frequently  
-✅ Solve on coding platforms  
-✅ Prepare for interviews effectively
 
 ---
