@@ -11,7 +11,6 @@ public class primeornot {
                 }
                 return true;
         }
-
         public static void main(String[] args) {
                 int number = 29;
                 System.out.println(isPrime(number));
